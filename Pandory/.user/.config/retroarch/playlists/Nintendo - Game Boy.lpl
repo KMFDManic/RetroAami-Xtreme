@@ -1,0 +1,25 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/pandory/share/retroarch/cores/gambatte_libretro.so",
+  "default_core_name": "Nintendo - Game Boy / Color (Gambatte)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/mnt/Pandory/.roms/Nintendo - Game Boy",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/mnt/Pandory/.roms/Nintendo - Game Boy/TobuTobuGirl.zip#tobu.gb",
+      "label": "TobuTobuGirl",
+      "core_path": "/tmp/pandory/share/retroarch/cores/gambatte_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gambatte)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy.lpl"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[INFO] === Build =======================================
+[INFO] Capabilities:  NEON VFPv3 VFPv4 ASIMD
+[INFO] Built: May  6 2022
+[INFO] Version: 1.10.3
+[INFO] =================================================
+[INFO] [Input]: Found input driver: "sdl2".
+[INFO] [Environ]: SET_PIXEL_FORMAT: RGB565.
+[INFO] [Core]: Version of libretro API: 1, Compiled against API: 1
+[INFO] [Audio]: Set audio input rate to: 48000.00 Hz.
+[INFO] [Video]: Set video size to: fullscreen.
+[INFO] [EGL] Falling back to eglGetDisplay
+[INFO] [EGL]: EGL version: 1.4
+[INFO] [EGL]: Created shared context: 0xcf4a90.
+[INFO] [EGL]: Current context: 0xcd2640.
+[INFO] [GL]: Found GL context: "fbdev_mali".
+[INFO] [GL]: Detecting screen resolution: 1280x720.
+[INFO] [GL]: Vendor: ARM, Renderer: Mali-T720.
+[INFO] [GL]: Version: OpenGL ES 3.1 v1.r14p0-01rel0.c03d7bc9086597b3c8927a1f6ed0063d.
+[INFO] [GL]: Using resolution 1280x720.
+[INFO] [GL]: Default shader backend found: glsl.
+[INFO] [Shader driver]: Using GLSL shader backend.
+[WARN] [GL]: Stock GLSL shaders will be used.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GL]: Using 4 textures.
+[INFO] [GL]: Loaded 1 program(s).
+[INFO] [Font]: Using font rendering backend: "bitmap".
+[INFO] [Video]: Graphics driver did not initialize an input driver. Attempting to pick a suitable driver.
+[WARN] [SDL]: Couldn't open haptic device of the joypad #0: Haptic: There are 0 haptic devices available
+[INFO] [Joypad]: Found joypad driver: "sdl2".
+[INFO] [Video]: Found display server: "null".

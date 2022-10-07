@@ -1,0 +1,25 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/pandory/share/retroarch/cores/vice_x64_libretro.so",
+  "default_core_name": "Commodore - C64 (VICE x64, fast)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/mnt/Pandory/.roms/Commodore - 64",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": false,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/mnt/Pandory/.roms/Commodore - 64/doccosmos.d64",
+      "label": "Doc Cosmos",
+      "core_path": "/tmp/pandory/share/retroarch/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    }
+  ]
+}
