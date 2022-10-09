@@ -1,0 +1,26 @@
+{
+  "version": "1.2",
+  "default_core_path": "/mnt/RetroAami/.user/.config/retroarch/cores/bash_launcher_libretro.so",
+  "default_core_name": "Linux (Bash Launcher)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/RetroAami/.user/A500Mini/ReBoot-Console.sh",
+      "label": "ReBoot Console",
+      "core_path": "/mnt/RetroAami/.user/.config/retroarch/cores/bash_launcher_libretro.so",
+      "core_name": "Linux (Bash Launcher)",
+      "crc32": "00000000|crc",
+      "db_name": "A500Mini.lpl"
+    },
+    {
+      "path": "/mnt/RetroAami/.user/A500Mini/Power-Off-Console.sh",
+      "label": "Power Off Console",
+      "core_path": "/mnt/RetroAami/.user/.config/retroarch/cores/bash_launcher_libretro.so",
+      "core_name": "Linux (Bash Launcher)",
+      "crc32": "00000000|crc",
+      "db_name": "A500Mini.lpl"
+    },
+  ]
+}

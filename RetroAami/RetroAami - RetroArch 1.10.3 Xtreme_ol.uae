@@ -1,0 +1,21 @@
+config_description= RetroAami - RetroArch For The Amiga Mini
+
+filesystem2=rw,DH0:RetroArchBoot:/mnt/RetroAami/RetroAami - RetroArch 1.10.3 Xtreme,10
+uaehf0=dir,rw,DH0:RetroArchBoot:/mnt/RetroAami/RetroAami - RetroArch 1.10.3 Xtreme,10
+
+amiberry.rom_path=/usr/share/amiberry/kickstarts/
+amiberry.allow_host_run=true
+amiberry.force_jit=true
+kickstart_rom_file=kick40068.A1200
+ide_mb_rom_file=:ENABLED
+gfx_refreshrate=50
+gfx_backbuffers=2
+gfx_api=directdraw
+gfx_api_options=hardware
+cpu_type=68040
+cpu_model=68040
+cachesize=0
+fastmem_size=0
+chipmem_size=1
+chipset=aga
+chipset_refreshrate=50.000000

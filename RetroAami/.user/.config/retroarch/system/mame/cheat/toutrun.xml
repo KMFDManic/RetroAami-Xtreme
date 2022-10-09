@@ -1,0 +1,61 @@
+<mamecheat version="1">
+
+  <cheat desc="Infinite Credits">
+    <script state="run">
+      <action>maincpu.pb@060052=63</action>
+    </script>
+  </cheat>
+
+  <cheat desc="Infinite Time"> <comment>Turn it OFF on Transmission or Parts select screen</comment>
+    <script state="run">
+      <action>maincpu.pb@060861=99</action>
+    </script>
+  </cheat>
+
+  <cheat desc="Always Use Turbo">
+    <script state="run">
+      <action>maincpu.pw@2607B2=0100</action>
+    </script>
+  </cheat>
+
+  <cheat desc="Turbo Never Overheats">
+    <script state="run">
+      <action>maincpu.pw@2607B4=0000</action>
+    </script>
+  </cheat>
+
+  <cheat desc="Always Faster Speed">
+    <script state="run">
+      <action>maincpu.pb@0608F1=FF</action>
+      <action>maincpu.pb@260783=FF</action>
+    </script>
+  </cheat>
+
+  <cheat desc="Always Have Hipower Engine">
+    <script state="run">
+      <action>maincpu.pb@0608F7=01|(maincpu.pb@0608F7 BAND ~01)</action>
+    </script>
+  </cheat>
+
+  <cheat desc="Always Have Higrip Tire">
+    <script state="run">
+      <action>maincpu.pb@0608F7=02|(maincpu.pb@0608F7 BAND ~02)</action>
+    </script>
+  </cheat>
+
+  <cheat desc="Always Have Special Turbo">
+    <script state="run">
+      <action>maincpu.pb@0608F7=04|(maincpu.pb@0608F7 BAND ~04)</action>
+    </script>
+  </cheat>
+
+  <cheat desc="Set Current Stage as Final Now!">
+    <script state="on">
+      <action>maincpu.pb@0608B3=03</action>
+      <action>maincpu.pb@060D61=0F</action>
+      <action>maincpu.pb@260003=03</action>
+    </script>
+  </cheat>
+
+</mamecheat>
+<!-- Cheat file downloaded from http://www.mamecheat.co.uk, see cheat.txt for list of contributors. -->
