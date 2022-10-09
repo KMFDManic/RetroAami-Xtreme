@@ -1,4 +1,12 @@
-Hex Edit Removed Segmentation Fault Obfuscation Oversight to correct License Violation:
+**To Abide by GNU GENERAL PUBLIC & Other Applicable LICENSES:**
+
+**Hex Edit Removed Segmentation Fault Obfuscation Oversight to correct License Violation**
+
+**capsimg.so not permissible for usage in Commercial Project; Non-Commercial ONLY**
+
+**capsimg.so generally a standalone file that End User can manually add**
+
+**Removed Pandory Obfuscation Coding Below to document that particular License Correction**
 
 int main(int argc,char **argv)
 {
